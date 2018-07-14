@@ -1,2 +1,3 @@
 # git-branch-structure
-This an repository which given an idea of Git graph design
+Welcome,
+        Hi ,reader this an , Repository which given an idea of Git graph design
